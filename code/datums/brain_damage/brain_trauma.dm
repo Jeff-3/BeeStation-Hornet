@@ -2,7 +2,7 @@
 //This chance gets higher the higher the mob's brainloss is. Removing traumas is a separate thing from removing brain damage: you can get restored to full brain operativity,
 // but keep the quirks, until repaired by neurine, surgery, lobotomy or magic; depending on the resilience
 // of the trauma.
-
+//Test commit
 /datum/brain_trauma
 	var/name = "Brain Trauma"
 	var/desc = "A trauma caused by brain damage, which causes issues to the patient."
